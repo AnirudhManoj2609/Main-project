@@ -1,0 +1,6 @@
+ChkTeX v1.7.8 - Copyright 1995-96 Jens T. Berger Thielemann.
+Compiled with PCRE regex support.
+No errors printed; No warnings printed; 132 user suppressed warnings; No line suppressed warnings.
+Latexmk: ====Undefined refs and citations with line #s in .tex file:
+  Citation `book1' on page 3 undefined on input line 152
+  Citation `article1' on page 3 undefined on input line 152
