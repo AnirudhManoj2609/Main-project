@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.3.24)  24 MAR 2026 12:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.3.24)  25 MAR 2026 09:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -138,28 +138,165 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count274
+)
+\@linkdim=\dimen160
+\Hy@linkcounter=\count275
+\Hy@pagecounter=\count276
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count277
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count278
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen161
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count279
+\Field@Width=\dimen162
+\Fld@charsize=\dimen163
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count280
+\c@Item=\count281
+\c@Hfootnote=\count282
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count283
+\c@bookmark@seq@number=\count284
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip61
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
+\l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box54
 )
-No file project_final.aux.
+(./project_final.aux)
 \openout1 = `project_final.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -177,7 +314,7 @@ LaTeX Font Info:    ... okay on input line 8.
 * \oddsidemargin=17.3571pt
 * \evensidemargin=17.3571pt
 * \topmargin=-51.45378pt
-* \headheight=12.0pt
+* \headheight=14.5pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -196,16 +333,16 @@ LaTeX Font Info:    ... okay on input line 8.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count275
-\scratchdimen=\dimen160
+\scratchcounter=\count286
+\scratchdimen=\dimen164
 \scratchbox=\box55
-\nofMPsegments=\count276
-\nofMParguments=\count277
+\nofMPsegments=\count287
+\nofMParguments=\count288
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count278
-\MPscratchDim=\dimen161
-\MPnumerator=\count279
-\makeMPintoPDFobject=\count280
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen165
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
 \everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -216,33 +353,33 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count281
+\c@lstlisting=\count292
+Package hyperref Info: Link coloring OFF on input line 13.
+
+(./project_final.out) (./project_final.out)
+\@outlinefile=\write3
+\openout3 = `project_final.out'.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 9.
+(Font)              <14.4> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 9.
+(Font)              <7> on input line 15.
 Package epstopdf Info: Source file: <fisat.eps>
 (epstopdf)                    date: 2026-03-12 03:27:44
 (epstopdf)                    size: 1055575 bytes
 (epstopdf)             Output file: <fisat-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-11 21:58:54
-(epstopdf)                    size: 185108 bytes
+(epstopdf)                    date: 2026-03-24 12:28:03
+(epstopdf)                    size: 185367 bytes
 (epstopdf)             Command: <repstopdf --outfile=fisat-eps-converted-to.pdf
  fisat.eps>
-(epstopdf)             \includegraphics on input line 9.
-runsystem(repstopdf --outfile=fisat-eps-converted-to.pdf fisat.eps)...executed 
-safely (allowed).
-
-Package epstopdf Info: Result file: <fisat-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-03-24 12:28:03
-(epstopdf)                    size: 185367 bytes.
-<fisat-eps-converted-to.pdf, id=1, 646.415pt x 570.13pt>
+(epstopdf)             \includegraphics on input line 15.
+Package epstopdf Info: Output file is already uptodate.
+<fisat-eps-converted-to.pdf, id=112, 646.415pt x 570.13pt>
 File: fisat-eps-converted-to.pdf Graphic file (type pdf)
 <use fisat-eps-converted-to.pdf>
-Package pdftex.def Info: fisat-eps-converted-to.pdf  used on input line 9.
+Package pdftex.def Info: fisat-eps-converted-to.pdf  used on input line 15.
 (pdftex.def)             Requested size: 193.926pt x 171.04031pt.
-
-[1
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
 st/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./fisat-eps-converted-to.pdf>]
@@ -254,24 +391,42 @@ Package epstopdf Info: Source file: <fisat.eps>
 (epstopdf)                    size: 185367 bytes
 (epstopdf)             Command: <repstopdf --outfile=fisat-eps-converted-to.pdf
  fisat.eps>
-(epstopdf)             \includegraphics on input line 10.
+(epstopdf)             \includegraphics on input line 15.
 Package epstopdf Info: Output file is already uptodate.
 File: fisat-eps-converted-to.pdf Graphic file (type pdf)
 <use fisat-eps-converted-to.pdf>
-Package pdftex.def Info: fisat-eps-converted-to.pdf  used on input line 10.
+Package pdftex.def Info: fisat-eps-converted-to.pdf  used on input line 15.
 (pdftex.def)             Requested size: 193.926pt x 171.04031pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 10.
+(Font)              <12> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 10.
+(Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 10.
+(Font)              <6> on input line 15.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
+Overfull \hbox (4.98848pt too wide) in paragraph at lines 15--15
+\OT1/cmr/m/n/12 This is to cer-tify that the project phase II re-port for the p
+roject en-ti-tled ``\OT1/cmr/bx/n/12 Serverless
+ []
+
+
+Overfull \hbox (41.53009pt too wide) in paragraph at lines 15--15
+\OT1/cmr/m/n/12 dur-ing VIII$[]$ semester (CXD416 - Project Phase II) by \OT1/c
+mr/bx/n/12 Anirudh Manoj(FITCSD2001)\OT1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 
  []
 
-[2]
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 \newpage
+              [2]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -286,8 +441,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--10
 * \textheight=728.39038pt
 * \oddsidemargin=17.3571pt
 * \evensidemargin=17.3571pt
-* \topmargin=4.54103pt
-* \headheight=12.0pt
+* \topmargin=2.04103pt
+* \headheight=14.5pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -304,163 +459,349 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--10
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [1
 
-] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 65--68
+Overfull \hbox (5.40497pt too wide) in paragraph at lines 32--33
+[]\OT1/cmr/m/n/10.95 Performance eval-u-a-tion demon-strates the ser-vice's abi
+l-ity to han-dle 1000+
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-[3]
-No file project_final.toc.
-\tf@toc=\write3
-\openout3 = `project_final.toc'.
 
-[0
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
 
 
-]
-No file project_final.lof.
-\tf@lof=\write4
-\openout4 = `project_final.lof'.
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
-[1
+ []
 
 
-]
-No file project_final.lot.
-\tf@lot=\write5
-\openout5 = `project_final.lot'.
+Overfull \hbox (2.85855pt too wide) in paragraph at lines 49--50
+[]\OT1/cmr/bx/n/10.95 Ashwin Pavithran (Doc-u-men-ta-tion/Test-ing): \OT1/cmr/m
+/n/10.95 Wrote tech-ni-cal doc-
+ []
 
-[1
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+[2] [3] (./project_final.toc)
+\tf@toc=\write4
+\openout4 = `project_final.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.85 \newpage
+              [0
+
+
+] (./project_final.lof)
+\tf@lof=\write5
+\openout5 = `project_final.lof'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.93 \newpage
+              [1
+
+
+] (./project_final.lot)
+\tf@lot=\write6
+\openout6 = `project_final.lot'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.101 \newpage
+               [1
 
 
 ]
 Chapter 1.
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
+]
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 27.18335pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.18335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.68335pt}.
+
+[2]
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 27.18335pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.18335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.68335pt}.
+
+[3]
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 27.18335pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.18335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.68335pt}.
+
+[4]
+Chapter 2.
+[5
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 []\OT1/cmr/bx/n/12 Workflow
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 \OT1/cmr/bx/n/12 Def-i-ni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 []\OT1/cmr/bx/n/12 State
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 \OT1/cmr/bx/n/12 Man-age-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 []\OT1/cmr/bx/n/12 Error
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 []\OT1/cmr/bx/n/12 Vendor
  []
 
 
-Overfull \hbox (21.5798pt too wide) in paragraph at lines 129--129
-[]\OT1/cmr/m/n/12 JSON/Amazon
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
+[]\OT1/cmr/m/n/12 AWS Step
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
-\OT1/cmr/m/n/12 States
+Overfull \hbox (2.15779pt too wide) in paragraph at lines 273--273
+[]\OT1/cmr/m/n/12 JSON/ASL| 
  []
 
 
-Overfull \hbox (8.53271pt too wide) in paragraph at lines 129--129
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
+[]\OT1/cmr/m/n/12 Built-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
+\OT1/cmr/m/n/12 in (Dy-
+ []
+
+
+Overfull \hbox (2.84225pt too wide) in paragraph at lines 273--273
 []\OT1/cmr/m/n/12 Retry/Catch| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-[]\OT1/cmr/m/n/12 Azure Durable
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+[]\OT1/cmr/m/n/12 Azure
  []
 
 
-Overfull \hbox (20.93536pt too wide) in paragraph at lines 130--130
-[]\OT1/cmr/m/n/12 C#/JavaScript| 
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+\OT1/cmr/m/n/12 Durable
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
-[]\OT1/cmr/m/n/12 Apache Open-
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+[]\OT1/cmr/m/n/12 Code-
  []
 
 
-Overfull \hbox (35.02272pt too wide) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+\OT1/cmr/m/n/12 based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+[]\OT1/cmr/m/n/12 Built-in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+\OT1/cmr/m/n/12 (Azure
+ []
+
+
+Overfull \hbox (14.22572pt too wide) in paragraph at lines 275--275
+[]\OT1/cmr/m/n/12 YAML/JSON| 
+ []
+
+
+Overfull \hbox (2.84225pt too wide) in paragraph at lines 275--275
+[]\OT1/cmr/m/n/12 Retry/Catch| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+[]\OT1/cmr/m/n/12 Apache
+ []
+
+
+Overfull \hbox (35.02272pt too wide) in paragraph at lines 276--276
 []\OT1/cmr/m/n/12 YAML/Composer| 
  []
 
 
-Overfull \hbox (12.3535pt too wide) in paragraph at lines 132--132
-[]\OT1/cmr/m/n/12 Customizable| 
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+[]\OT1/cmr/m/n/12 Code-
  []
 
-[2
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--278
+[]\OT1/cmr/bx/n/12 Built-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--278
+\OT1/cmr/bx/n/12 in (Dy-
+ []
+
+
+Overfull \hbox (16.95126pt too wide) in paragraph at lines 278--278
+[]\OT1/cmr/bx/n/12 Customizable| 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 27.18335pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.18335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.68335pt}.
+
+[6]
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 27.18335pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.18335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.68335pt}.
+
+[7]
+Chapter 3.
+[8
 
 ]
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 27.18335pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.18335pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-12.68335pt}.
 
-[3]
-Chapter 2.
+[9]
 
-! LaTeX Error: File `architecture' not found.
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 27.18335pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.18335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.175 ...aphics[width=0.8\textwidth]{architecture}
-                                                   % You'll need to create t...
+(fancyhdr)                \addtolength{\topmargin}{-12.68335pt}.
 
-? clear
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? x
- 
+[10]
+
+Package fancyhdr Warning: \headheight is too small (14.5pt): 
+(fancyhdr)                Make it at least 27.18335pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.18335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.68335pt}.
+
+[11]
+Chapter 4.
+[12
+
+]
+Chapter 5.
+[13
+
+]
+Chapter 6.
+[14
+
+] (./project_final.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.474 \newpage
+               [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.476 \begin{appendices}
+                         [1
+
+
+] (./project_final.aux)
+Package rerunfilecheck Info: File `project_final.out' has not changed.
+(rerunfilecheck)             Checksum: D4FCE23F8A49796BCBE69566BD660AB2;3641.
+ ) 
 Here is how much of TeX's memory you used:
- 4125 strings out of 476034
- 63995 string characters out of 5792864
- 1860388 words of memory out of 6000000
- 24553 multiletter control sequences out of 15000+600000
- 520147 words of font info for 57 fonts, out of 8000000 for 9000
+ 10825 strings out of 476034
+ 169100 string characters out of 5792864
+ 1864388 words of memory out of 6000000
+ 31076 multiletter control sequences out of 15000+600000
+ 520412 words of font info for 58 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 72i,11n,76p,468b,278s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1
-200.pfb>
-Output written on project_final.pdf (10 pages, 337952 bytes).
+ 75i,14n,76p,532b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-su
+per/sfrm1200.pfb>
+Output written on project_final.pdf (24 pages, 371727 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 332 PDF objects out of 1000 (max. 8388607)
+ 281 compressed objects within 3 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 222 words of extra memory for PDF output out of 10000 (max. 10000000)
 
